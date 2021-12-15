@@ -7,15 +7,11 @@
 - STM32CubeMX
 - A Code Editor (I recommend VS Code + C/C++ Extension)
 
-#
-
 ## Project Setup
 - Clone this repository
 - Create STM32CubeMX project in the same directory
 - Use STM32CubeIDE as Toolchain / IDE in STM32CubeMX > Project Manager
 - Generate code
-
-#
 
 ## Build
 ### Prepare
